@@ -12,7 +12,7 @@ settings = require("settings-sharelatex")
 
 SERVICES = [{
 	name: "web"
-	repo: "https://github.com/sharelatex/web-sharelatex.git"
+	repo: "https://github.com/numbleroot/web-sharelatex.git"
 	version: "master"
 }, {
 	name: "real-time"
